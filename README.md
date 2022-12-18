@@ -1,6 +1,6 @@
 # Analyse deaths involving police in the United States
 
-### Preview
+### Preview:
 
 <img src="https://user-images.githubusercontent.com/91461938/200151480-65157920-130e-432c-9e69-f739a82a070d.png">
 
